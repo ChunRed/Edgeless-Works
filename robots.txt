@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ChunRed.github.com/Edgeless-Works/sitemap.xml
