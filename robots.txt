@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://chunred.github.io/Edgeless-Works/sitemap.xml
+Sitemap: https://chunred.github.io/No-Side-Here/sitemap.xml
