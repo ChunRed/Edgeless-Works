@@ -3,7 +3,7 @@
     <title>No-Side-Here</title>
     <link href="https://chunred.github.io/No-Side-Here/feed.xml" rel="self" />
     <link href="https://chunred.github.io/No-Side-Here" />
-    <updated>2025-02-03T22:20:24+08:00</updated>
+    <updated>2025-02-06T15:24:18+08:00</updated>
     <author>
         <name>chunhuang</name>
     </author>
@@ -31,16 +31,23 @@
                     <p><img src="https://chunred.github.io/No-Side-Here/media/posts/20/003.jpg" class="type:primaryImage" alt="" /></p>
                 <div><div class="card mb-3">
   <div class="row g-0 ">
-    <div class="col-5 align-self-center">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 align-self-center">
       <img loading="lazy" src="https://i.imgur.com/5NFV9YQ.jpg" class="img-fluid rounded-start w-100" alt="..." data-is-external-image="true">
     </div>
-    <div class="col-6 ">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
       <div class="card-body">
         <h5 class="card-title">900MHz</h5>
-        <p class="card-text">語言、文字、符號，人類溝通的媒介，如何突破七段顯示器的框架傳遞訊息？
-在一字一句都需要計價的傳訊時代，訊息內容不斷精煉演化，從數字延伸到英文字母，又或者延伸至以讀音的諧音傳達訊息，甚至當語言、文字無法表達時，改以表情符號、圖文示意。
-BB Call的年代，我們以900MHz頻率聯繫彼此，創造出特有的傳訊文化。如今溝通工具已大幅減低人們傳訊的門檻，傳訊文化似乎並未隨之消逝，隱藏在我們已習以為常的溝通中。</p>
-
+        <p class="card-text" style="line-height: 200%;">
+        
+        <span style="font-size:14pt">
+        語言、文字、符號，人類溝通的媒介，如何突破七段顯示器的框架傳遞訊息？
+        </span> <br >
+        
+        <span style="font-size:14pt">
+        在一字一句都需要計價的傳訊時代，訊息內容不斷精煉演化，從數字延伸到英文字母，又或者延伸至以讀音的諧音傳達訊息，甚至當語言、文字無法表達時，改以表情符號、圖文示意。
+        BB Call的年代，我們以900MHz頻率聯繫彼此，創造出特有的傳訊文化。如今溝通工具已大幅減低人們傳訊的門檻，傳訊文化似乎並未隨之消逝，隱藏在我們已習以為常的溝通中。</p>
+        </span>
+        
       </div>
     </div>
   </div>
@@ -163,18 +170,17 @@ BB Call的年代，我們以900MHz頻率聯繫彼此，創造出特有的傳訊�
     <div class=" col-12 hr_line"></div>
 </div>
 </div>
-
-  <p>
-    共同創作者：林芸均、 陳懿、陳苡瑄、蔡承嶧、戴婕茵
-  </p>
-
-  <p>
-    展覽：
-  </p>
-
-  <p>
-    2025 台南 月津港燈節 - 月津超新星燈區：前望的回顧
-  </p>
+<div><p style="line-height:150%">
+    <span  class="text-secondary" style="font-size:12pt">
+        共同創作者：林芸均、 陳懿、陳苡瑄、蔡承嶧、戴婕茵
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        展覽：2025 台南 月津港燈節 - 月津超新星燈區：前望的回顧
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        特耶感謝：<a href="https://www.instagram.com/nthu.maker.lab/">nthu.maker.lab<a>
+    </span> <br>
+</p></div>
 
   <p>
     
@@ -634,10 +640,10 @@ BB Call的年代，我們以900MHz頻率聯繫彼此，創造出特有的傳訊�
                     <p><img src="https://chunred.github.io/No-Side-Here/media/posts/11/Guang-Gu-Hua-3DLie-Yin-Tu-Zi-Te-Xie.JPG" class="type:primaryImage" alt="" /></p>
                 <div><div class="card mb-3">
   <div class="row g-0 ">
-    <div class="col-5 align-self-center">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 align-self-center">
       <img loading="lazy" src="https://i.imgur.com/Ob8PWLt.jpg" class="img-fluid rounded-start w-100" alt="..." data-is-external-image="true">
     </div>
-    <div class="col-6 ">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 ">
       <div class="card-body">
         <h5 class="card-title">From Here to There</h5>
         <p class="card-text">兔子在神秘的洞口之間穿梭，探索護城河的景色，觀察河邊的人們，靈活俐落的動作，輕盈又優雅地完成每一次跳動。躍身與落下，乘載了一年跌宕裡的笑與淚，穿越了河道，步步通往新年的企盼。
@@ -941,10 +947,10 @@ BB Call的年代，我們以900MHz頻率聯繫彼此，創造出特有的傳訊�
                 <div><p class="text-center" style="rgb:(100,100,100)"> < 2023 台南 月津港燈節-城裡的月光 > </p></div>
 <div><div class="card mb-3">
   <div class="row g-0 ">
-    <div class="col-5 align-self-center">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 align-self-center">
       <img loading="lazy" src="https://i.imgur.com/D3tUJRZ.jpg" class="img-fluid rounded-start w-100" alt="..." data-is-external-image="true">
     </div>
-    <div class="col-6 ">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 ">
       <div class="card-body">
         <h5 class="card-title">POP Moon</h5>
         <p class="card-text">人們對光的嚮往，造就了無數對月光的崇拜與傳說。然而，有光即有影。對月亮的憧憬與恐懼，細語如一條條充滿禁忌的警告，流傳並知曉至今。本作品,欲透過裝置的擺設,再現民間傳說的神秘色彩與禁忌故事。邀請各位隨著冒犯的手指們，一同走進傳說的遐想。</p>
@@ -954,10 +960,10 @@ BB Call的年代，我們以900MHz頻率聯繫彼此，創造出特有的傳訊�
 </div></div>
 <div><div class="card mb-3">
   <div class="row g-0 ">
-    <div class="col-5 align-self-center">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6  align-self-center">
       <img loading="lazy" src="https://i.imgur.com/1AqKWbc.jpg" class="img-fluid rounded-start w-100" alt="..." data-is-external-image="true">
     </div>
-    <div class="col-6 ">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6  ">
       <div class="card-body">
         <h5 class="card-title">互動網頁</h5>
         <p class="card-text">現場將擺設QRcode, 邀請觀眾連網至POPMOON。</p>
