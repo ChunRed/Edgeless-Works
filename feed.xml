@@ -3,7 +3,7 @@
     <title>No-Side-Here</title>
     <link href="https://chunred.github.io/No-Side-Here/feed.xml" rel="self" />
     <link href="https://chunred.github.io/No-Side-Here" />
-    <updated>2025-02-07T15:42:25+08:00</updated>
+    <updated>2025-02-07T18:50:20+08:00</updated>
     <author>
         <name>chunhuang</name>
     </author>
@@ -178,7 +178,7 @@
         展覽：2025 台南 月津港燈節 - 月津超新星燈區：前望的回顧
     </span> <br>
     <span class="text-secondary" style="font-size:12pt">
-        特耶感謝：<a href="https://www.instagram.com/nthu.maker.lab/">nthu.maker.lab<a>
+        特別感謝：<a href="https://www.instagram.com/nthu.maker.lab/">nthu.maker.lab<a>
     </span> <br>
 </p></div>
 
@@ -212,14 +212,29 @@
     <div class=" col-8 hr_line"></div>
 </div>
 </div>
+<div><p style="font-size:14pt">作品以「烏日故事《茄苳樹下的一場戲》」為基礎，使用擴增實境技術(Augmented Reality，AR)來重述故 事內容。虛擬的樹藏在尚未發芽的種子裡，訴說著一個個微縮故事，並且被人們在生命故事中賦予一位角 色，成為他們口中的傳說。透過 AR，我們將一窺每顆茄苳樹種子裡的未來，也許茁壯成樹，蔭罩大地;也許 與人共舞，與陽相擁;也許孤老終身，見證光陰，無論如何，故事仍持續著......。</p></div>
 
-  <p>
-    作品以「烏日故事《茄苳樹下的一場戲》」為基礎，使用擴增實境技術(Augmented Reality，AR)來重述故 事內容。虛擬的樹藏在尚未發芽的種子裡，訴說著一個個微縮故事，並且被人們在生命故事中賦予一位角 色，成為他們口中的傳說。透過 AR，我們將一窺每顆茄苳樹種子裡的未來，也許茁壯成樹，蔭罩大地;也許 與人共舞，與陽相擁;也許孤老終身，見證光陰，無論如何，故事仍持續著......。
-  </p>
-
-  <p>
-    「種子裡有顆虛擬的樹｜Virtual Tree in the Seed」為五個畫箱放於展台上方，每個畫箱上將有一顆茄苳樹種子與一張關於文本片段的插畫，當觀眾透過 AR 軟體觀看時，能看見每顆種子茁壯成樹的樣子，並且各自述說著一段故事情境。
-  </p>
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://chunred.github.io/No-Side-Here/media/posts/19/gallery/D2-89.jpg" data-size="2048x1363">
+        <img loading="lazy" src="https://chunred.github.io/No-Side-Here/media/posts/19/gallery/D2-89-thumbnail.jpg" height="511" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://chunred.github.io/No-Side-Here/media/posts/19/gallery/D2-88.jpg" data-size="2048x1363">
+        <img loading="lazy" src="https://chunred.github.io/No-Side-Here/media/posts/19/gallery/D2-88-thumbnail.jpg" height="511" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://chunred.github.io/No-Side-Here/media/posts/19/gallery/D2-86.jpg" data-size="2048x1363">
+        <img loading="lazy" src="https://chunred.github.io/No-Side-Here/media/posts/19/gallery/D2-86-thumbnail.jpg" height="511" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+<div><p style="font-size:14pt">「種子裡有顆虛擬的樹｜Virtual Tree in the Seed」為五個畫箱放於展台上方，每個畫箱上將有一顆茄苳樹種子與一張關於文本片段的插畫，當觀眾透過 AR 軟體觀看時，能看見每顆種子茁壯成樹的樣子，並且各自述說著一段故事情境。</p></div>
 <div><div class="row justify-content-center m-5">
     <div class=" col-8 hr_line"></div>
 </div>
@@ -294,18 +309,16 @@
     <div class=" col-8 hr_line"></div>
 </div>
 </div>
-
-  <p>
-    展覽
-  </p>
-
-  <p>
-    2024.8「藝翔奇境─科技跨藝特展」，於臺中市屯區藝文中心，臺中
-  </p>
-
-  <p>
-    特別感謝：國立清華大學數位美學暨科技文化研究實驗室
-  </p>
+<div><p style="line-height:150%">
+    
+    <span class="text-secondary" style="font-size:12pt">
+        展覽：2024.8「藝翔奇境─科技跨藝特展」，於臺中市屯區藝文中心，臺中
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        特別感謝：<a href="https://technoart.nthu.edu.tw/chiu/work/">數位美學暨科技文化研究實驗室<a>
+    </span> <br>
+</p>
+</div>
             ]]>
         </content>
     </entry>
@@ -336,14 +349,8 @@
     <div class=" col-12 hr_line"></div>
 </div>
 </div>
-
-  <p>
-    此時，人們正經歷海平面每年上升3到4毫米的階段，隨著氣候變遷將遽增為每年4到9毫米。海平面的上升並非只是土地的消逝，更影響到人與環境的共處關係。《浮海》這件作品試圖放大人為干涉環境所造成的劇烈連鎖狀態，透過「蛇擺」曳引的視覺效果去重現人與自然時而「同步」時而「混沌」的牽制狀態，進而思考兩者間該如何共處，又該如何面對未來的異變。
-  </p>
-
-  <p>
-    Currently, sea levels rise annually at 3 to 4 millimeters, with predictions of an acceleration to 4 to 9 millimeters per year due to climate change. Beyond land loss, these rising sea levels significantly affect the human-environment relationship. “Pulsation Sea” magnifies the profound chain reactions resulting from human environmental interventions. Through a “Pendulum Wave” visual effect, it portrays the dynamic connection between humans and nature, oscillating between “synchronization” and “chaos”, stimulating reflection on coexistence and facing future uncertainties.
-  </p>
+<div><p style="font-size:14pt">此時，人們正經歷海平面每年上升3到4毫米的階段，隨著氣候變遷將遽增為每年4到9毫米。海平面的上升並非只是土地的消逝，更影響到人與環境的共處關係。《浮海》這件作品試圖放大人為干涉環境所造成的劇烈連鎖狀態，透過「蛇擺」曳引的視覺效果去重現人與自然時而「同步」時而「混沌」的牽制狀態，進而思考兩者間該如何共處，又該如何面對未來的異變。</p></div>
+<div><p style="font-size:14pt" >Currently, sea levels rise annually at 3 to 4 millimeters, with predictions of an acceleration to 4 to 9 millimeters per year due to climate change. Beyond land loss, these rising sea levels significantly affect the human-environment relationship. “Pulsation Sea” magnifies the profound chain reactions resulting from human environmental interventions. Through a “Pendulum Wave” visual effect, it portrays the dynamic connection between humans and nature, oscillating between “synchronization” and “chaos”, stimulating reflection on coexistence and facing future uncertainties.</p></div>
 <div><p><br></p></div>
 
     <figure class="post__image post__image--center">
@@ -414,14 +421,19 @@
     <div class=" col-12 hr_line"></div>
 </div>
 </div>
-
-  <p>
-    進場協力：詹登凱、蔡承嶧
-  </p>
-
-  <p>
-    特別感謝：國立清華大學數位美學暨科技文化研究實驗室
-  </p>
+<div><p style="line-height:150%">
+    
+    <span class="text-secondary" style="font-size:12pt">
+        展覽：2024 台南 月津港燈節-通往銀河的便利指南
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        進場協力：詹登凱、蔡承嶧
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        特別感謝：<a href="https://technoart.nthu.edu.tw/chiu/work/">數位美學暨科技文化研究實驗室<a>
+    </span> <br>
+</p>
+</div>
             ]]>
         </content>
     </entry>
@@ -446,22 +458,10 @@
             <![CDATA[
                     <p><img src="https://chunred.github.io/No-Side-Here/media/posts/15/01-2.jpg" class="type:primaryImage" alt="" /></p>
                 <div><p class="text-center mb-3" style="color:rgb(100,100,100)">< 2024 新北市美展 - 金獎 ><br></p></div>
-
-  <p>
-    現實環境正不斷轉換為資訊，使人們試圖去尋找能證明「資訊」存在的方法，當我們所認為虛擬的事物確實存在著，環境的變遷、水文的循環將因數位化而改變，數據統計、數位化保存等亦改變了人們認知的自然，我們所認為的真實漸漸從虛擬中得知，使現實蒸發為虛擬又凝結為真實。然而數位與虛擬納為自然的循環中，我們喪失了何物？在一次次數位的循環後又將遺忘哪些本質的意義？數位循環｜
-  </p>
-
-  <p>
-    The transformation of our physical environment into information makes people seek ways to validate "information's" existence. As what we perceive as virtual elements indeed exists, shift natural cycles through digitization, altering our grasp of the natural world. Reality unfolds from the virtual, evaporating into the digital and solidifying back into reality. Amidst this digital-virtual cycle, what's lost? Which essential meanings fade after repeated digital shifts?<br>
-  </p>
-
-  <p>
-    「數位循環」嘗試將虛擬地景介入現實環境當中，藉此捕捉數位循環中所喪失的「資訊的重量」。透過實地掃描自然景觀後，運用點雲技術複製出虛擬地景，計算其資訊位元的重量並與現實地景想比對，最後將消逝的重量透過霧化裝置噴出等重量的水霧消散至空間中，正如那些數位化後所蒸發至無的現實樣貌，龐大且充斥在周遭，正在消逝卻無人察覺。<br>
-  </p>
-
-  <p>
-    "Mess Cycle" introduces virtual landscapes to physical environments, capturing lost "information weight." Scanning natural scenes and recreating virtual ones using point cloud tech, we calculate their informational weight and compare with real surroundings. The vanishing weight disperses through misting, paralleling the evaporation of digitized realities. Imperceptible yet vast, these shifts engulf us, fading away undetected.
-  </p>
+<div><p style="font-size:14pt">現實環境正不斷轉換為資訊，使人們試圖去尋找能證明「資訊」存在的方法，當我們所認為虛擬的事物確實存在著，環境的變遷、水文的循環將因數位化而改變，數據統計、數位化保存等亦改變了人們認知的自然，我們所認為的真實漸漸從虛擬中得知，使現實蒸發為虛擬又凝結為真實。然而數位與虛擬納為自然的循環中，我們喪失了何物？在一次次數位的循環後又將遺忘哪些本質的意義？數位循環｜</p></div>
+<div><p style="font-size:14pt">The transformation of our physical environment into information makes people seek ways to validate "information's" existence. As what we perceive as virtual elements indeed exists, shift natural cycles through digitization, altering our grasp of the natural world. Reality unfolds from the virtual, evaporating into the digital and solidifying back into reality. Amidst this digital-virtual cycle, what's lost? Which essential meanings fade after repeated digital shifts?<br></p></div>
+<div><p style="font-size:14pt">「數位循環」嘗試將虛擬地景介入現實環境當中，藉此捕捉數位循環中所喪失的「資訊的重量」。透過實地掃描自然景觀後，運用點雲技術複製出虛擬地景，計算其資訊位元的重量並與現實地景想比對，最後將消逝的重量透過霧化裝置噴出等重量的水霧消散至空間中，正如那些數位化後所蒸發至無的現實樣貌，龐大且充斥在周遭，正在消逝卻無人察覺。<br></p></div>
+<div><p style="font-size:14pt">"Mess Cycle" introduces virtual landscapes to physical environments, capturing lost "information weight." Scanning natural scenes and recreating virtual ones using point cloud tech, we calculate their informational weight and compare with real surroundings. The vanishing weight disperses through misting, paralleling the evaporation of digitized realities. Imperceptible yet vast, these shifts engulf us, fading away undetected.</p></div>
 <div class="y-5"><div class="row justify-content-center p-5">
     <div class=" col-12 hr_line"></div>
 </div>
@@ -523,24 +523,27 @@
             <summary>
                 <![CDATA[
                         <img src="https://chunred.github.io/No-Side-Here/media/posts/14/Time-Organ_1.jpg" alt="" />
-                    Time Orgon Since&hellip;
+                    Since the changes&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://chunred.github.io/No-Side-Here/media/posts/14/Time-Organ_1.jpg" class="type:primaryImage" alt="" /></p>
                 <div><div style="width:100%; height:100%; position:fixed; top:0px; left:0px; background-color:rgb(0,0,0); z-index:-1;"></div></div>
+<div><p class="text-center text-light m-5">< 2024 法國 LAVAL VIRTUAL RECTO VRso VR競賽 優選 ></p></div>
 <div><div class="card mb-3 text-white bg-dark">
   <div class="row g-0 ">
     <div class="col-12 ">
       <div class="card-body">
         <h5 class="card-title">Time Orgon</h5>
-        <p class="card-text">Since the changes from sunrise to sunset, humans have continuously explored their relationship with time.  With technological advancements, people have employed tools to segment time into measurable units, constantly seeking the most precise frequencies in nature for more accurate time calculations. The development of technology has introduced the "attosecond," a time unit with eighteen decimal places. However, even when finely divided, this increasingly precise time is challenging to perceive. In fact, at the moment time is calculated and quantified, the essential nature of "time as continuous change" is already eradicated. Our body's perception of time should be immeasurable, but the quantitative thought patterns ingrained in us by seemingly objective and precise scientific time have gradually led to the loss of our most direct bodily sensations. This has rendered the relationship between time and bodily experience insensate.</p>
-        <p class="card-text">In our relentless pursuit of temporal precision, we have unintentionally neglected our own body's inherent rhythm. The Time Organ art project delves into the "insensitivity" of human somatosensory time, seeking to revive the awareness of bodily time through innate human synchronization and sensory extension. Drawing inspiration from the historical "mechanical water clock," an instrument through which humans initially exercised control over time, the Time Organ artwork employs water as a medium and embodies the concept of extending a human organ. The objective is to fashion a tool that reconnects human time perception with the frequency intrinsic to their bodies. Through the orchestrated chaos and synchronous experiences within the artwork, we consistently prompt the question to the experiencer: What is time? What sensations are you experiencing? Our aim is to investigate, through sensory illusions, whether synchronization can facilitate a return to the most direct bodily perception of time.</p>
+        <p class="card-text" style="font-size:14pt">Since the changes from sunrise to sunset, humans have continuously explored their relationship with time.  With technological advancements, people have employed tools to segment time into measurable units, constantly seeking the most precise frequencies in nature for more accurate time calculations. The development of technology has introduced the "attosecond," a time unit with eighteen decimal places. However, even when finely divided, this increasingly precise time is challenging to perceive. In fact, at the moment time is calculated and quantified, the essential nature of "time as continuous change" is already eradicated. Our body's perception of time should be immeasurable, but the quantitative thought patterns ingrained in us by seemingly objective and precise scientific time have gradually led to the loss of our most direct bodily sensations. This has rendered the relationship between time and bodily experience insensate.</p>
+        <p class="card-text" style="font-size:14pt">In our relentless pursuit of temporal precision, we have unintentionally neglected our own body's inherent rhythm. The Time Organ art project delves into the "insensitivity" of human somatosensory time, seeking to revive the awareness of bodily time through innate human synchronization and sensory extension. Drawing inspiration from the historical "mechanical water clock," an instrument through which humans initially exercised control over time, the Time Organ artwork employs water as a medium and embodies the concept of extending a human organ. The objective is to fashion a tool that reconnects human time perception with the frequency intrinsic to their bodies. Through the orchestrated chaos and synchronous experiences within the artwork, we consistently prompt the question to the experiencer: What is time? What sensations are you experiencing? Our aim is to investigate, through sensory illusions, whether synchronization can facilitate a return to the most direct bodily perception of time.</p>
       </div>
     </div>
   </div>
 </div></div>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/euQ7X9xSXqM?si=2De724ZhITSNHpsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>
+<div><p class="text-light" style="font-size:14pt">計時工具的演進之下，人對於時間單位的分割越來越細緻與精準，從最早的機械水鐘到現在的原子鐘都在追求更精準的時間，然而越趨精準的量化時間卻與我們對時間最直接的身體經驗有所不同，進而對身體時間的流逝變得無感。Organic-sync創作計畫透過沉浸式體驗結合自製的滴水裝置，製造出視覺、聽覺與觸覺從異步到同步的體驗，交疊多重感官以增幅時間與身體感受的誤差，期望在失感的時代中找回屬於人微幅的脈動。</p></div>
 <div class="y-5"><div class="row justify-content-center p-5 text-white ">
     <div class=" col-12 hr_line"></div>
 </div>
@@ -609,12 +612,15 @@
 <div><div class="row justify-content-center p-5 text-white ">
     <div class=" col-12 hr_line"></div>
 </div></div>
-<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/euQ7X9xSXqM?si=2De724ZhITSNHpsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-</div>
-
-  <p>
+<div><p style="line-height:150%">
     
-  </p>
+    <span class="text-secondary" style="font-size:12pt">
+        展覽：2024 法國 LAVAL VIRTUAL RECTO VRso VR類展
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        特別感謝：<a href="https://www.instagram.com/lumisound_xrlab/">虛擬藝術暨聲像遊玩實驗室<a>
+    </span> <br>
+</p></div>
             ]]>
         </content>
     </entry>
@@ -632,27 +638,16 @@
             <summary>
                 <![CDATA[
                         <img src="https://chunred.github.io/No-Side-Here/media/posts/11/Guang-Gu-Hua-3DLie-Yin-Tu-Zi-Te-Xie.JPG" alt="" />
-                    From Here to&hellip;
+                    兔子在神秘的洞口之間穿梭，探索護城河的景色，觀察河邊的人們，靈活俐落的動作，輕盈又優雅地完成每一次跳動。躍身與落下，乘載了一年跌宕裡的笑與淚，穿越了河道，步步通往新年的企盼。 「From Here&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://chunred.github.io/No-Side-Here/media/posts/11/Guang-Gu-Hua-3DLie-Yin-Tu-Zi-Te-Xie.JPG" class="type:primaryImage" alt="" /></p>
-                <div><div class="card mb-3">
-  <div class="row g-0 ">
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 align-self-center">
-      <img loading="lazy" src="https://i.imgur.com/Ob8PWLt.jpg" class="img-fluid rounded-start w-100" alt="..." data-is-external-image="true">
-    </div>
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 ">
-      <div class="card-body">
-        <h5 class="card-title">From Here to There</h5>
-        <p class="card-text">兔子在神秘的洞口之間穿梭，探索護城河的景色，觀察河邊的人們，靈活俐落的動作，輕盈又優雅地完成每一次跳動。躍身與落下，乘載了一年跌宕裡的笑與淚，穿越了河道，步步通往新年的企盼。
-        <p class="card-text">「From Here 兔 There」，由河岸上觀眾的碰觸為起點，開啟兔子在河面上跳躍、蛻變的旅程，點亮城市的希望，從這裡到那裡，帶領人們迎向嶄新的一年。</p>
-
-      </div>
-    </div>
-  </div>
-</div></div>
+                <div>
+<p class="text" style="font-size:14pt">兔子在神秘的洞口之間穿梭，探索護城河的景色，觀察河邊的人們，靈活俐落的動作，輕盈又優雅地完成每一次跳動。躍身與落下，乘載了一年跌宕裡的笑與淚，穿越了河道，步步通往新年的企盼。
+<p class="text" style="font-size:14pt">「From Here 兔 There」，由河岸上觀眾的碰觸為起點，開啟兔子在河面上跳躍、蛻變的旅程，點亮城市的希望，從這裡到那裡，帶領人們迎向嶄新的一年。</p>
+</div>
 <div><div class="row justify-content-center p-3">
     <div class=" col-12 hr_line"></div>
 </div>
@@ -757,17 +752,17 @@
     <div class=" col-12 hr_line"></div>
 </div>
 </div>
-<div><div class="card mb-3">
-    <h5 class="p-5">國立清華大學 藝術學院學士班</h5>
-    <ul>
-        <li>單位：數位美學暨科技文化研究實驗室</li>
-        <li>成員：林俊遑、黃紀虹、鄭子芸、游覺輔、賴玟霓、劉怡萱、黃睿緯、林易萱、陳虹宇、程馨、謝長穎</li>
-        <li>活動：2023 新竹燈節</li>
-        <li>特別感謝：殺手、阿盈</li>
-    </ul>
-</div>
-
-</div>
+<div><p style="line-height:150%">
+    <span class="text-secondary" style="font-size:12pt">
+        共同製作：游覺輔、賴玟霓、劉怡萱、黃睿緯、林易萱、陳虹宇、程馨、謝長穎
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        展覽：2023.1「新竹過好年 萬兔順利Jump!」2023新竹燈節，新竹護城河，新竹
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        特別感謝：<a href="https://technoart.nthu.edu.tw/chiu/work/">數位美學暨科技文化研究實驗室<a>
+    </span> <br>
+</p></div>
 
   <p>
     
@@ -897,30 +892,16 @@
 </div>
 </div>
 <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/pFjsBx9bzpM?si=x5jEOnGcTRHKy9v_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>
-
-  <p>
-    展覽
-  </p>
-
-  <p>
-    2023.7「畫中話—兒童畫與原生藝術展」，台灣藝術教育館，台北
-  </p>
-
-  <p>
-    特別感謝
-  </p>
-
-  <p>
-    中華民國兒童美術教育學會
-  </p>
-
-  <p>
-    世界兒童繪畫作品資料庫
-  </p>
-
-  <p>
-    國立清華大學數位美學暨科技文化研究實驗室
-  </p>
+<div><p style="line-height:150%">
+   
+    <span class="text-secondary" style="font-size:12pt">
+        展覽：2023.7「畫中話—兒童畫與原生藝術展」，台灣藝術教育館，台北
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        特別感謝：中華民國兒童美術教育學會、世界兒童繪畫作品資料庫、<a href="https://technoart.nthu.edu.tw/chiu/work/">數位美學暨科技文化研究實驗室<a>
+    </span> <br>
+    
+</p></div>
             ]]>
         </content>
     </entry>
@@ -944,7 +925,8 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://chunred.github.io/No-Side-Here/media/posts/5/IMG_9496.JPG" class="type:primaryImage" alt="" /></p>
-                <div><p class="text-center" style="rgb:(100,100,100)"> < 2023 台南 月津港燈節-城裡的月光 > </p></div>
+                <div><p class="text-center m-5" style="rgb:(100,100,100)"> < 2023 台南 月津港燈節-城裡的月光 > < 台南 鹽水月之美術館典藏 ></p></div>
+<div><p class="text-center m-5" style="rgb:(100,100,100)"> < 台南 鹽水 月之美術館典藏 ></p></div>
 <div><div class="card mb-3">
   <div class="row g-0 ">
     <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 align-self-center">
@@ -1048,14 +1030,18 @@
     <div class=" col-12 hr_line"></div>
 </div>
 </div>
-
-  <p>
-    共同創作者：游覺輔、賴玟霓、劉怡萱、黃睿緯
-  </p>
-
-  <p>
-    特別感謝：國立清華大學數位美學暨科技文化研究實驗室
-  </p>
+<div><p style="line-height:150%">
+   <span class="text-secondary" style="font-size:12pt">
+        共同製作：游覺輔、賴玟霓、劉怡萱、黃睿緯
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        展覽：2023.1 台南 月津港燈節-城裡的月光 
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        特別感謝：<a href="https://technoart.nthu.edu.tw/chiu/work/">數位美學暨科技文化研究實驗室<a>
+    </span> <br>
+    
+</p></div>
             ]]>
         </content>
     </entry>

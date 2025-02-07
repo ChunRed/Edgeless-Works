@@ -14,9 +14,9 @@
 <link rel="alternate" type="application/json" href="https://chunred.github.io/No-Side-Here/feed.json" />
 
         <meta property="og:title" content="浮海 ｜Pulsation Sea - No-Side-Here " /><meta property="og:image" content="https://chunred.github.io/No-Side-Here/media/posts/18/IMG_4938-2.jpg"/><meta property="og:image:width" content="4032" /><meta property="og:image:height" content="3024" /><meta property="og:site_name" content="No-Side-Here" /><meta property="og:description" content="此時，人們正經歷海平面每年上升3到4毫米的階段，隨著氣候變遷將遽增為每年4到9毫米。海平面的上升並非只是土地的消逝，更影響到人與環境的共處關係。《浮海》這件作品試圖放大人為干涉環境所造成的劇烈連鎖狀態，透過「蛇擺」曳引的視覺效果去重現人與自然時而「同步」時而「混沌」的牽制狀態，進而思考兩者間該如何共處，又該如何面對未來的異變。 Currently, sea&hellip;" /><meta property="og:url" content="https://chunred.github.io/No-Side-Here/pop-moon-3.html" /><meta property="og:type" content="article" />
-        <link rel="stylesheet" href="https://chunred.github.io/No-Side-Here/assets/css/style.css?v=65b2afb46d5ea30b8634b1b18b45375f">
+        <link rel="stylesheet" href="https://chunred.github.io/No-Side-Here/assets/css/style.css?v=03527085330d7cfd43d41a5f60a78d83">
                  <link rel="stylesheet" href="https://chunred.github.io/No-Side-Here/assets/css/photoswipe.css?v=da6e9be0fa855edd3610e97c1d4e38d9">
-        <script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://chunred.github.io/No-Side-Here/pop-moon-3.html"},"headline":"浮海 ｜Pulsation Sea","datePublished":"2025-02-02T16:57+08:00","dateModified":"2025-02-02T17:21+08:00","image":{"@type":"ImageObject","url":"https://chunred.github.io/No-Side-Here/media/posts/18/IMG_4938-2.jpg","height":3024,"width":4032},"description":"此時，人們正經歷海平面每年上升3到4毫米的階段，隨著氣候變遷將遽增為每年4到9毫米。海平面的上升並非只是土地的消逝，更影響到人與環境的共處關係。《浮海》這件作品試圖放大人為干涉環境所造成的劇烈連鎖狀態，透過「蛇擺」曳引的視覺效果去重現人與自然時而「同步」時而「混沌」的牽制狀態，進而思考兩者間該如何共處，又該如何面對未來的異變。 Currently, sea&hellip;","author":{"@type":"Person","name":"chunhuang","url":"https://chunred.github.io/No-Side-Here/authors/chunhuang/"},"publisher":{"@type":"Organization","name":"chunhuang"}}</script>        
+        <script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://chunred.github.io/No-Side-Here/pop-moon-3.html"},"headline":"浮海 ｜Pulsation Sea","datePublished":"2025-02-02T16:57+08:00","dateModified":"2025-02-07T18:29+08:00","image":{"@type":"ImageObject","url":"https://chunred.github.io/No-Side-Here/media/posts/18/IMG_4938-2.jpg","height":3024,"width":4032},"description":"此時，人們正經歷海平面每年上升3到4毫米的階段，隨著氣候變遷將遽增為每年4到9毫米。海平面的上升並非只是土地的消逝，更影響到人與環境的共處關係。《浮海》這件作品試圖放大人為干涉環境所造成的劇烈連鎖狀態，透過「蛇擺」曳引的視覺效果去重現人與自然時而「同步」時而「混沌」的牽制狀態，進而思考兩者間該如何共處，又該如何面對未來的異變。 Currently, sea&hellip;","author":{"@type":"Person","name":"chunhuang","url":"https://chunred.github.io/No-Side-Here/authors/chunhuang/"},"publisher":{"@type":"Organization","name":"chunhuang"}}</script>        
 		            <style>				
 				          .pswp--svg .pswp__button,
 				          .pswp--svg .pswp__button--arrow--left:before,
@@ -76,24 +76,19 @@ function draw() {
   
     
   stroke(200);
-  strokeWeight(17);
-  fill(200);
+  strokeWeight(2);
+  fill(255,255,255,0);
   
-  c_x = lerp(x, mouseX, 0.12);
-  c_y = lerp(y, mouseY, 0.12);
+  c_x = lerp(x, mouseX, 0.10);
+  c_y = lerp(y, mouseY, 0.10);
   
-  line(x, y, c_x, c_y);
+  
   x = c_x;
   y = c_y;
   
-  if(frameCount % 100 == 0){
-    circle(x, y, random(2, 20));
-  }
+  circle(x, y, 50);
   
-  if(frameCount % 30 == 0){
-    target_x = random(width);
-    target_y = random(height);
-  }
+  
 }
 </script>
 
@@ -155,14 +150,8 @@ function draw() {
     <div class=" col-12 hr_line"></div>
 </div>
 </div>
-
-  <p>
-    此時，人們正經歷海平面每年上升3到4毫米的階段，隨著氣候變遷將遽增為每年4到9毫米。海平面的上升並非只是土地的消逝，更影響到人與環境的共處關係。《浮海》這件作品試圖放大人為干涉環境所造成的劇烈連鎖狀態，透過「蛇擺」曳引的視覺效果去重現人與自然時而「同步」時而「混沌」的牽制狀態，進而思考兩者間該如何共處，又該如何面對未來的異變。
-  </p>
-
-  <p>
-    Currently, sea levels rise annually at 3 to 4 millimeters, with predictions of an acceleration to 4 to 9 millimeters per year due to climate change. Beyond land loss, these rising sea levels significantly affect the human-environment relationship. “Pulsation Sea” magnifies the profound chain reactions resulting from human environmental interventions. Through a “Pendulum Wave” visual effect, it portrays the dynamic connection between humans and nature, oscillating between “synchronization” and “chaos”, stimulating reflection on coexistence and facing future uncertainties.
-  </p>
+<div><p style="font-size:14pt">此時，人們正經歷海平面每年上升3到4毫米的階段，隨著氣候變遷將遽增為每年4到9毫米。海平面的上升並非只是土地的消逝，更影響到人與環境的共處關係。《浮海》這件作品試圖放大人為干涉環境所造成的劇烈連鎖狀態，透過「蛇擺」曳引的視覺效果去重現人與自然時而「同步」時而「混沌」的牽制狀態，進而思考兩者間該如何共處，又該如何面對未來的異變。</p></div>
+<div><p style="font-size:14pt" >Currently, sea levels rise annually at 3 to 4 millimeters, with predictions of an acceleration to 4 to 9 millimeters per year due to climate change. Beyond land loss, these rising sea levels significantly affect the human-environment relationship. “Pulsation Sea” magnifies the profound chain reactions resulting from human environmental interventions. Through a “Pendulum Wave” visual effect, it portrays the dynamic connection between humans and nature, oscillating between “synchronization” and “chaos”, stimulating reflection on coexistence and facing future uncertainties.</p></div>
 <div><p><br></p></div>
 
     <figure class="post__image post__image--center">
@@ -233,14 +222,19 @@ function draw() {
     <div class=" col-12 hr_line"></div>
 </div>
 </div>
-
-  <p>
-    進場協力：詹登凱、蔡承嶧
-  </p>
-
-  <p>
-    特別感謝：國立清華大學數位美學暨科技文化研究實驗室
-  </p>
+<div><p style="line-height:150%">
+    
+    <span class="text-secondary" style="font-size:12pt">
+        展覽：2024 台南 月津港燈節-通往銀河的便利指南
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        進場協力：詹登凱、蔡承嶧
+    </span> <br>
+    <span class="text-secondary" style="font-size:12pt">
+        特別感謝：<a href="https://technoart.nthu.edu.tw/chiu/work/">數位美學暨科技文化研究實驗室<a>
+    </span> <br>
+</p>
+</div>
          </div>
       </article>
 
