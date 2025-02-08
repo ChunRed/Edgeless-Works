@@ -3,7 +3,7 @@
     <title>No-Side-Here</title>
     <link href="https://chunred.github.io/No-Side-Here/feed.xml" rel="self" />
     <link href="https://chunred.github.io/No-Side-Here" />
-    <updated>2025-02-07T18:50:20+08:00</updated>
+    <updated>2025-02-08T17:22:06+08:00</updated>
     <author>
         <name>chunhuang</name>
     </author>
@@ -56,16 +56,27 @@
   <p>
     Do you remember the days of the pager?<br><br>This 900MHz device let us stay connected to each other. The numbers on the screen not only conveyed simple messages, but also created a unique communication culture.Todays, staying in touch is easier, but no longer precious. We hope to bring you back to the 1990s, inviting you to relive the warmth of those numeric messages.<br><br>As the digits flash on the screen, you’re invited to experience the joy of hidden codes and feel the emotion behind each message once again.
   </p>
-<div><div class="row justify-content-center p-3">
+<div><div class="row justify-content-center  m-5">
     <div class=" col-12 hr_line"></div>
 </div>
 </div>
 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://chunred.github.io/No-Side-Here/media/posts/20/IMG_4135.jpg" height="856" width="1284" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chunred.github.io/No-Side-Here/media/posts/20/responsive/IMG_4135-xs.jpg 300w ,https://chunred.github.io/No-Side-Here/media/posts/20/responsive/IMG_4135-sm.jpg 480w ,https://chunred.github.io/No-Side-Here/media/posts/20/responsive/IMG_4135-md.jpg 768w ,https://chunred.github.io/No-Side-Here/media/posts/20/responsive/IMG_4135-lg.jpg 1024w">
-      <figcaption>900MHz - 網頁互動</figcaption>
+      <figcaption>900MHz - 互動網頁設計｜Interactive Web Design</figcaption>
     </figure>
-<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/xhtPHDEM6ws?si=m_OWHGZMsMf4UyIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div><div class="row m-5">
+    <div class="col text-center">
+      <a href="https://chunred.github.io/900MHz/" class=" btn btn-outline btn active  btn-sm" role="button" aria-pressed="true">- Website Link -  </a>
+    </div>
+  </div>
+
+</div>
+<div><div class="row justify-content-center p-3">
+    <div class=" col-12 hr_line"></div>
+</div>
+</div>
+<div><div class="post__iframe"><iframe loading="lazy" class="mt-3" width="560" height="315" src="https://www.youtube.com/embed/xhtPHDEM6ws?si=m_OWHGZMsMf4UyIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div>
 <div><div class="row justify-content-center p-3">
     <div class=" col-12 hr_line"></div>
